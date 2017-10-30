@@ -4,8 +4,8 @@ function [re] = final( img1 )
 %sharpness for an input image.
 %Please refer to the following papers if you use this code for your research:
 
-%Y. Zhan, and R. Zhang, ¡°No-Reference Image Sharpness Assessment 
-%Based on the Maximum Gradient and the Variability of Gradients¡±,
+%Y. Zhan, and R. Zhang, â€œNo-Reference Image Sharpness Assessment 
+%Based on the Maximum Gradient and the Variability of Gradientsâ€,
 %IEEE Transaction on Multimedia, 2017.
 
 %Kindly report any suggestions or corrections to zrong@ustc.edu.cn
